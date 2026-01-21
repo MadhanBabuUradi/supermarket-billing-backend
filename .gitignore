@@ -1,0 +1,1 @@
+-e "target/\n*.log\n*.class\n.env\n.idea/\n.vscode/" 
