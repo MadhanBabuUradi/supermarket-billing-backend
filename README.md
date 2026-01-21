@@ -69,8 +69,8 @@ You can enable JWT Authentication and Role‑based Access Control using Spring S
 
 **This backend demonstrates:**
 
-- 🔹 Real‑world API development skills
-- 🔹 RESTful design expertise
-- 🔹 Database modeling & persistence
-- 🔹 Java best practices & framework proficiency
-- 🔹 Clean architecture for scalability
+-  Real‑world API development skills
+-  RESTful design expertise
+-  Database modeling & persistence
+-  Java best practices & framework proficiency
+-  Clean architecture for scalability
