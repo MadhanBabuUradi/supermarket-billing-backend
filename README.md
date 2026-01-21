@@ -31,12 +31,12 @@ This backend service is engineered using industry‑standard architectural patte
 ✅ Configurable DB profiles for dev & prod
 
 🛠️ Setup Instructions
-1. Clone Repository
+1. **Clone Repository**
 ```bash
 git clone https://github.com/MadhanBabuUradi/supermarket-billing-backend.git
 cd supermarket-billing-backend
 ```
-2. Configure Database
+2. **Configure Database**
 
 Create a database such as ```bash supermarket_db```
 
@@ -47,16 +47,16 @@ spring.datasource.username=YOUR_DB_USER
 spring.datasource.password=YOUR_DB_PASSWORD
 spring.jpa.hibernate.ddl-auto=update
 ```
-3. Build & Run
+3. **Build & Run**
 ```bash
 mvn clean install
 mvn spring-boot:run
 ```
-🔐 Security 
+🔐 **Security** 
 
 You can enable JWT Authentication and Role‑based Access Control using Spring Security for production‑grade protection.
 
-📝 **Contributing**
+# 📝 **Contributing**
 
 **Contributions are welcome!**
 
@@ -65,7 +65,7 @@ You can enable JWT Authentication and Role‑based Access Control using Spring S
 - Commit meaningful changes
 - Open a Pull Request
 
-🏆 **Why This Backend Matters**
+# 🏆 **Why This Backend Matters**
 
 **This backend demonstrates:**
 
