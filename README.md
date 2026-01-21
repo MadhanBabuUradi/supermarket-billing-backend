@@ -36,3 +36,9 @@ This backend service is engineered using industry‑standard architectural patte
 git clone https://github.com/MadhanBabuUradi/supermarket-billing-backend.git
 cd supermarket-billing-backend
 ```
+2. Configure Database
+
+Create a database such as ```bash supermarket_db```
+
+Update application.properties:
+```bash
