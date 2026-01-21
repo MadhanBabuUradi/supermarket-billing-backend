@@ -30,15 +30,8 @@ This backend service is engineered using industry‑standard architectural patte
 ✅ Layered architecture for maintainability
 ✅ Configurable DB profiles for dev & prod
 
-📐 **Architecture**
-Client (React/Angular/Vue) 
-        ↓
-RESTful API Endpoints
-        ↓
-Controller Layer
-        ↓
-Service Layer (Business Logic)
-        ↓
-Repository Layer (Spring Data JPA)
-        ↓
-Relational Database (MySQL/PostgreSQL)
+🛠️ Setup Instructions
+1. Clone Repository
+'''bash
+git clone https://github.com/MadhanBabuUradi/supermarket-billing-backend.git
+cd supermarket-billing-backend
