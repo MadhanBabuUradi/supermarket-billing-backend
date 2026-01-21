@@ -47,3 +47,8 @@ spring.datasource.username=YOUR_DB_USER
 spring.datasource.password=YOUR_DB_PASSWORD
 spring.jpa.hibernate.ddl-auto=update
 ```
+3. Build & Run
+```bash
+mvn clean install
+mvn spring-boot:run
+```
