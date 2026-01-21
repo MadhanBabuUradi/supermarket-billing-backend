@@ -20,17 +20,17 @@ This backend service is engineered using industry‑standard architectural patte
 | Security      | Spring Security (optional)        |
 | Documentation | Swagger / OpenAPI                 |
 
-📌 **Features**
-✅ REST API for managing products and billing
-✅ CRUD operations for products and categories
-✅ Cart management and price calculation
-✅ Invoice generation and export support
-✅ Pagination, filtering, sorting
-✅ Exception handling and standardized API responses
-✅ Layered architecture for maintainability
-✅ Configurable DB profiles for dev & prod
+# 📌 **Features**
+✅ REST API for managing products and billing.
+✅ CRUD operations for products and categories.
+✅ Cart management and price calculation.
+✅ Invoice generation and export support.
+✅ Pagination, filtering, sorting.
+✅ Exception handling and standardized API responses.
+✅ Layered architecture for maintainability.
+✅ Configurable DB profiles for dev & prod.
 
-🛠️ Setup Instructions
+# 🛠️ Setup Instructions
 1. **Clone Repository**
 ```bash
 git clone https://github.com/MadhanBabuUradi/supermarket-billing-backend.git
