@@ -32,6 +32,7 @@ This backend service is engineered using industry‑standard architectural patte
 
 🛠️ Setup Instructions
 1. Clone Repository
-#!/bin/bash
+```bash
 git clone https://github.com/MadhanBabuUradi/supermarket-billing-backend.git
 cd supermarket-billing-backend
+```
