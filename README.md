@@ -52,3 +52,15 @@ spring.jpa.hibernate.ddl-auto=update
 mvn clean install
 mvn spring-boot:run
 ```
+🔐 Security 
+
+You can enable JWT Authentication and Role‑based Access Control using Spring Security for production‑grade protection.
+
+📝 **Contributing**
+
+**Contributions are welcome!**
+
+- Fork the repository
+- Create a new branch (feature/xyz)
+-Commit meaningful changes
+-Open a Pull Request
