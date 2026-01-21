@@ -56,15 +56,6 @@ mvn spring-boot:run
 
 You can enable JWT Authentication and Role‑based Access Control using Spring Security for production‑grade protection.
 
-# 📝 **Contributing**
-
-**Contributions are welcome!**
-
-- Fork the repository
-- Create a new branch (feature/xyz)
-- Commit meaningful changes
-- Open a Pull Request
-
 # 🏆 **Why This Backend Matters**
 
 **This backend demonstrates:**
@@ -74,3 +65,11 @@ You can enable JWT Authentication and Role‑based Access Control using Spring S
 -  Database modeling & persistence
 -  Java best practices & framework proficiency
 -  Clean architecture for scalability
+# 📝 **Contributing**
+
+**Contributions are welcome!**
+
+- Fork the repository
+- Create a new branch (feature/xyz)
+- Commit meaningful changes
+- Open a Pull Request
