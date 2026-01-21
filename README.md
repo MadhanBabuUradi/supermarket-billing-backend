@@ -42,3 +42,8 @@ Create a database such as ```bash supermarket_db```
 
 Update application.properties:
 ```bash
+spring.datasource.url=jdbc:mysql://localhost:3306/supermarket_db
+spring.datasource.username=YOUR_DB_USER
+spring.datasource.password=YOUR_DB_PASSWORD
+spring.jpa.hibernate.ddl-auto=update
+```
