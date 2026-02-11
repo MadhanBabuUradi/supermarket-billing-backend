@@ -37,8 +37,10 @@ git clone https://github.com/MadhanBabuUradi/supermarket-billing-backend.git
 cd supermarket-billing-backend
 ```
 2. **Configure Database**
-Create a database such as ```bash supermarket_db```
-
+Create a database such as
+ ```bash
+supermarket_db
+```
 Update application.properties:
 ```bash
 spring.datasource.url=jdbc:mysql://localhost:3306/supermarket_db
