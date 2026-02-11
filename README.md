@@ -66,8 +66,8 @@ You can enable JWT Authentication and Role‑based Access Control using Spring S
 -  Database modeling & persistence
 -  Java best practices & framework proficiency
 -  Clean architecture for scalability
-📝 **Contributing**
-
+  
+📝 **Contributions**
 **Contributions are welcome! Please fork the repository and submit a pull request for improvements or bug fixes.**
 
 - Fork the repository
