@@ -72,5 +72,5 @@ You can enable JWT Authentication and Role‑based Access Control using Spring S
 
 Fork the repository
 Create a new branch (feature/xyz)
-- Commit meaningful changes
+Commit meaningful changes
 - Open a Pull Request
