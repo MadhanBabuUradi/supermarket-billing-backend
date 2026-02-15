@@ -52,7 +52,6 @@ mvn clean install
 mvn spring-boot:run
 ```
 🔐 **Security** 
-
 You can enable JWT Authentication and Role‑based Access Control using Spring Security for production‑grade protection.
 
 # 🏆 **Why This Backend Matters**
