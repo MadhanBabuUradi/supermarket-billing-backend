@@ -18,7 +18,7 @@ This backend service is engineered using industry‑standard architectural patte
 | Security      | Spring Security (optional)        |
 | Documentation | Swagger / OpenAPI                 |
 
-📌 **Features**
+📌 **Features**  
 - REST API for managing products and billing.
 - CRUD operations for products and categories.
 - Cart management and price calculation.
